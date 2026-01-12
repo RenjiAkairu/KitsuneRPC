@@ -60,12 +60,12 @@ To use this app, you need a **Discord Application ID**. It's free and takes 1 mi
 ## 🚀 How to Run
 
 ### Option 1: Download .exe (Easiest)
-1.  Go to the **Releases** page on this repository.
+1.  Go to the **[Releases]** page on this repository.
 2.  Download `KitsuneRP.exe`.
 3.  Run the app (You might need to "Run anyway" if Windows Defender warns you).
 
 ### Option 2: Run from Source (For Developers)
-"Compatible with Windows, Linux, and macOS (Python 3.10+ required)"
+*Compatible with Windows, Linux, and macOS (Python 3.10+ required)*
 
 If you prefer running the Python script directly:
 
@@ -79,6 +79,7 @@ If you prefer running the Python script directly:
     python main.py
     ```
 
+> **Note:** Linux and macOS support is currently **experimental** and has not been personally tested by the developer. If you encounter any issues, feel free to open an Issue on GitHub.
 ---
 
 ## 🤝 Credits & Acknowledgements
