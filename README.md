@@ -59,7 +59,7 @@ If you prefer running the Python script directly:
 1.  Clone this repository.
 2.  Install requirements:
     ```bash
-    pip install customtkinter pypresence
+    pip install -r requirements.txt
     ```
 3.  Run the script:
     ```bash
